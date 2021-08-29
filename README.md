@@ -2,9 +2,9 @@
 ### We will always remember you..
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ibb.co/9rrnJ7g/20210815-080839.jpg" width="170" height="170"/>
+  <img border-radius: 15px src="zara.jpg" width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="ZaraMwol" src="https://img.shields.io/badge/-ZaraMwol-pink?&style=for-the-badge"></a>
+<a href="#"><img title="Zarav2" src="https://img.shields.io/badge/-Zarav2-pink?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
@@ -22,13 +22,13 @@ Project created by <a href="https://github.com/Raashii">Raashii</a> to make it p
 ----
 
   <p align="center">
-  <a href="https://github.com/Jokerser-x-Raashii/Zaramwol ">
-    <img src="https://img.shields.io/github/repo-size/Jokerser-x-Raashii/Zaramwol?color=pink&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/Mevin45/Zarav2 ">
+    <img src="https://img.shields.io/github/repo-size/Mevin45/Zarav2?color=pink&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/Jokerser-x-Raashii/followers"><img title="Followers" src="https://img.shields.io/github/followers/Jokerser-x-Raashii?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Jokerser-x-Raashii/Zaramwol?color=grey&style=plastic"></a>
-<a href="https://github.com/Jokerser-x-Raashii/Zaramwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Jokerser-x-Raashii/Zaramwol?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/Mevin45/followers"><img title="Followers" src="https://img.shields.io/github/followers/Mevin45?color=grey&style=plastic"></a>
+<a href="https://github.com/Mevin45/Zarav2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Mevin45/Zarav2?color=grey&style=plastic"></a>
+<a href="https://github.com/Mevin45/Zarav2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Mevin45/Zarav2?color=grey&style=plastic"></a>
+<a href="https://github.com/Mevin45/Zarav2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mevin45/Zarav2?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 
 ```
@@ -54,9 +54,9 @@ the user is responsible.
 
   ### <u> Simple Method <u>
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/Zarav2)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jokerser-x-Raashii/Zaramwol)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mevin45/Zarav2)
      </div>
 <br>
 <br >
@@ -70,8 +70,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
-$ cd Zaramwol
+$ git clone https://github.com/Mevin45/Zarav2
+$ cd Zarav2
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -80,8 +80,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Jokerser-x-Raashii/Zaramwol
-$ cd Zaramwol
+$ git clone https://github.com/Mevin45/Zarav2
+$ cd Zarav2
 $ chmod +x *
 $ npm i
 $ node qr.js
